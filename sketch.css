@@ -1,0 +1,80 @@
+.wrapper {
+	width: 600px;
+	margin: 30px auto;
+}
+h1 {
+	text-align: center;
+	font-size: 30px;
+}
+p {
+	text-align: center;
+	font-size: 20px;
+}
+.gbox {
+	width: 20px;
+	height: 20px;
+	margin: 0;
+	float: left;
+}
+.gbox:hover {
+	background-color: black;
+}
+.box {
+	width: 600px;
+	height: 600px;
+}
+.bigbox {
+	position: absolute;
+}
+#bigbox1 {
+	height: 120px;
+	width: 120px;
+	position: relative;
+	border-style: solid;
+	border-color: white;
+	border-width: 15px;
+}
+#bigbox2 {
+	height: 120px;
+	width: 120px;
+	position: relative;
+	left: 450px;
+	border-style: solid;
+	border-color: white;
+	border-width: 15px;
+}
+#bigbox3 {
+	height: 120px;
+	width: 120px;
+	position: relative;
+	top:450px;
+	border-style: solid;
+	border-color: white;
+	border-width: 15px;
+}
+
+#smallbox {
+	width: 20px;
+	height: 20px;
+	margin: 0;
+	float: left;
+	background-color: black;
+	border-style: solid;
+	border-color: white;
+	border-width: 20px;
+	position: relative;
+	left: 20px;
+	top: 20px;
+}
+#smallboxout {
+	position: relative;
+	left: 440px;
+	top: 440px;
+	border-style: black;
+	border-color: white;
+	border-width: 20px;
+	height: 100px;
+	width: 100px;
+	background-color: black;
+}
+}
