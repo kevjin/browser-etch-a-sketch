@@ -4,4 +4,4 @@ To draw, move your mouse as fast as you can across the grid:
 ![screenshot1](screenshot1.png)
 
 After drawing:
-1[screenshot2](screenshot2.png)
+![screenshot2](screenshot2.png)
